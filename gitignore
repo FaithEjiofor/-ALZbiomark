@@ -1,0 +1,14 @@
+# Exclude all raw ADNI data files - DUA prohibits public sharing
+*.csv
+*.CSV
+*.xlsx
+*.xls
+*.sav
+*.zip
+
+# Exclude data download folder entirely
+00_data_downloads/
+
+# Exclude any temporary R files
+*.tmp
+*.log
