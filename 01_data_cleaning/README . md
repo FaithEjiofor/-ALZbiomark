@@ -1,0 +1,6 @@
+# Data cleaning scrripts
+This folder contains R scripts for loading, merging and cleaning ADNI data files.
+scripts in this folder:
+01_merge_ADNI.R
+02_Qc_inclusion.R
+03_Variable_prep.R
