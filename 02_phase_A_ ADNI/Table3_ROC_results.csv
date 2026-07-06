@@ -1,0 +1,2 @@
+Biomarker,N,Atrophy_n,AUC,CI_lower,CI_upper,Threshold,Sensitivity,Specificity
+CSF p-tau181,40,13,0.681,0.502,0.86,27.5,0.769,0.667
