@@ -3,7 +3,6 @@ setwd("/home/faithejiofor15/alzheimers-biomarker-neuroanatomy/00_data_downloads"
 library(dplyr)
 library(readr)
 library(tidyr)
-
 select <- dplyr::select
 
 cat("Checking all data objects are loaded:\n")
