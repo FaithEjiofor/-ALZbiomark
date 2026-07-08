@@ -1,5 +1,5 @@
 # Pase A Analysis Scripts
-This folder contains R scripts for the fase A ADNI neuroanatomical-biomarker analysis
+This folder contains R scripts for the phase A ADNI neuroanatomical-biomarker analysis
 Scripts in this folder:
 01_correlations.R
 02_LME_models.R
